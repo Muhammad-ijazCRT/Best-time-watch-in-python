@@ -1,0 +1,4 @@
+It detect your pc local time and show it as a digital time watach.
+
+Muhammad ijaz
+dowhfCRT...
